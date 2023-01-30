@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+}
+.all{
+    justify-content: center;
+    border: 4px solid black;
+    border-radius: 50px;
+    background-color: blueviolet;
+    width: 70%;
+    margin-left: 15%;
+    /* margin-top: 15%; */
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: large;
+}
+
+.container1{
+    text-align: center;
+
+}
+.container2{
+    text-align: center;
+    
+}
+.btn1{
+    background-color:greenyellow;
+}
+.btn2{
+    background-color:greenyellow;
+}
